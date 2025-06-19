@@ -15,6 +15,15 @@
 
 - ⚡ Fun fact **I love building full-stack clones of real-world apps to sharpen my skills 🚀**
 
+- ### 📊 GitHub Stats
+
+![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alk231&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alk231&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alk231&theme=tokyonight)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/alok-kumar-gupta-0b6b76262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alok-kumar-gupta-0b6b76262" height="30" width="40" /></a>
