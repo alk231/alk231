@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I love building full-stack clones of real-world apps to sharpen my skills 🚀**
 
-- ### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alk231&show_icons=true&theme=tokyonight)
 
