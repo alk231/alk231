@@ -41,25 +41,9 @@
 ### 🧩 GitHub Activity Graph
 ![Alok's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alk231&theme=tokyo-night)
 
----
-
-### 📌 Featured Projects
-- 🔗 [Smart Fertilizer Management System](https://github.com/alk231/smart-fertilizer-management)
-- 🔗 [UPI Fraud Detection with AI](https://github.com/alk231/upi-fraud-detection)
-- 🔗 [Video Sharing Platform](https://github.com/alk231/video-sharing-app)
-
----
-
 ### 👥 Community
 - 🔎 Profile Visitors: ![Visitors](https://komarev.com/ghpvc/?username=alk231&color=blue)
 - 👨‍💻 Followers: ![GitHub Followers](https://img.shields.io/github/followers/alk231?label=Follow&style=social)
-
----
-
-### 🐍 Contribution Graph
-![Snake animation](https://github.com/alk231/alk231/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 💬 Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
