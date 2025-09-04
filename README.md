@@ -1,19 +1,28 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar Gupta</h1>
 <h3 align="center">Full Stack Developer | AI & ML Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alk231&label=Profile%20views&color=0e75b6&style=flat" alt="alk231" /> </p>
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=alk231&label=Profile%20views&color=0e75b6&style=flat" alt="alk231" /> 
+</p>
 
+---
+
+### 👨‍💻 About Me
 - 🔭 I’m currently working on **Smart Fertilizer Management System**
 - 🌱 I’m currently learning **Tailwind CSS, Flask, and advanced machine learning concepts**
 - 🤝 I’m looking for help with **Integrating AI recommendations in real-time web dashboards**
-- 👨‍💻 All of my projects are available at [https://portfolio4-s1ng.onrender.com](https://portfolio4-s1ng.onrender.com)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://portfolio4-s1ng.onrender.com)
 - 📫 How to reach me **kumaralokown@gmail.com**
 - ⚡ Fun fact **I love building full-stack clones of real-world apps to sharpen my skills 🚀**
+- 🎯 2025 Goal: Contribute to **Open Source AI projects**
+
+![Profile Badge](https://img.shields.io/badge/FullStack-MERN-green?style=flat&logo=react) 
+![AI Badge](https://img.shields.io/badge/AI-ML-blue?style=flat&logo=python) 
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange?style=flat&logo=github)
 
 ---
 
 ### 📊 GitHub Stats
-
 ![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alk231&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alk231&layout=compact&theme=tokyonight)
 
@@ -24,8 +33,36 @@
 
 ---
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alk231&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
 ### 🧩 GitHub Activity Graph
 ![Alok's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alk231&theme=tokyo-night)
+
+---
+
+### 📌 Featured Projects
+- 🔗 [Smart Fertilizer Management System](https://github.com/alk231/smart-fertilizer-management)
+- 🔗 [UPI Fraud Detection with AI](https://github.com/alk231/upi-fraud-detection)
+- 🔗 [Video Sharing Platform](https://github.com/alk231/video-sharing-app)
+
+---
+
+### 👥 Community
+- 🔎 Profile Visitors: ![Visitors](https://komarev.com/ghpvc/?username=alk231&color=blue)
+- 👨‍💻 Followers: ![GitHub Followers](https://img.shields.io/github/followers/alk231?label=Follow&style=social)
+
+---
+
+### 🐍 Contribution Graph
+![Snake animation](https://github.com/alk231/alk231/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 💬 Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
