@@ -99,33 +99,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alk231/alk231/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💻 Competitive Programming
-
-<p align="center">
-  <a href="https://leetcode.com/alk231" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.codechef.com/users/alk231" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://codeforces.com/profile/alk231" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.hackerrank.com/alk231" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
