@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alok+Kumar+Gupta;Competitive+Programmer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alok+Kumar+Gupta;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" /></div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alk231&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
