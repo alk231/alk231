@@ -10,8 +10,8 @@
 
 ## 🚀 About Me
 
-- 🏛️ **Student** at **VTU (Visvesvaraya Technological University)**, Bengaluru, India
-- 💻 **Passionate** about **Data Structures & Algorithms** and **Competitive Programming**
+- 🏛️ **Student** at **Sir M Visvesvaraya Institute of Technology**, Bengaluru, India
+- 💻 **Passionate** about **Data Structures & Algorithms**
 - 🔧 Currently working on **Smart Fertilizer Management System**
 - 🌱 Learning **Advanced Machine Learning**, **Flask**, and **Tailwind CSS**
 - 🤝 Looking for **internship opportunities** in Software Development
@@ -126,7 +126,7 @@
   <a href="mailto:kumaralokown@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://portfolio4-slng.onrender.com" target="_blank">
+  <a href="https://portfolio4-s1ng.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/alk231" target="_blank">
